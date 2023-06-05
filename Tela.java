@@ -1,4 +1,4 @@
-//ajuda de Henrique
+//ajuda de Henrique tt02
 import java.util.Random;
 import javax.swing.JButton;
 
