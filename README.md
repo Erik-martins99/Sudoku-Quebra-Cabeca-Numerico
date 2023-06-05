@@ -1,2 +1,0 @@
-# Sudoku-Quebra-Cabeca-Numerico
- 
